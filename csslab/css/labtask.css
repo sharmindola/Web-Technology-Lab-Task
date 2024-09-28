@@ -1,0 +1,46 @@
+
+       
+        body {
+            background-color: lightblue;
+        }
+
+        #header h1 {
+            font-family: verdana;
+            font-size: 20px;
+            background-color: blue;
+            color:white;
+        }
+ 
+       
+ 
+        #header p {
+            font-family: verdana;
+            font-size: 20px;
+            color:pink;
+        }
+ 
+        #paragraph1{
+            color: red;
+        }
+ 
+        .paragraph2{
+            color: violet;
+        }
+ 
+        h3.paragraph2{
+            color: green;
+        }
+        h3.para3{
+            color: yellow;
+            text-align: left;
+        }
+        h2.para5{
+          color: red;
+          text-align: right;
+        }
+        *{
+            text-align: center;
+        }
+        h4.para4{
+          color: green;
+        }
